@@ -1,16 +1,58 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oxypetalum7&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <h3>Oxypetalum7's Github</h3>
+  <h6> Hi! I'm Designer-Minded Engineer. </h6>
+</div>
 
-<!--
-**Oxypetalum7/Oxypetalum7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h3>My Avators</h3>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img width="164px" alt="Lupetalum" src="https://github.com/user-attachments/assets/314c1ef7-c63d-49cf-ad7a-e1d26f806192" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="164px" alt="Lupetan" src="https://github.com/user-attachments/assets/ee336ca0-db47-4df1-b1fb-e6f29cbecc3b" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="164px" alt="Ki-chan" src="https://github.com/user-attachments/assets/dc73c681-852b-4c08-82fd-5fe51180b83b" />
+</div>
+
+<div align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Lupetalum
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Lupetan
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Ki-chan
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<div align="center">
+  &nbsp;&nbsp;(るぺたん)
+</div>
+
+<hr>
+
+<h3>
+  Skils
+</h3>
+
+<h6>Good at - ﾅﾆﾓﾜｶﾗﾅｲ:</h6>
+
+- Android
+- Kotlin Muilti Platform
+
+<h6>Fair at - ｶﾝｾﾞﾝﾆﾘｶｲｼﾀ:</h6>
+
+- Figma (Designing & Developing)
+- iOS
+
+<h6>Newbie - 普通に初心者:</h6>
+
+- Web Frontend (React, Javascript)
+- Web Backend (Go)
+- Python
+- Processing
+- Unity
+
+  etc...
+
