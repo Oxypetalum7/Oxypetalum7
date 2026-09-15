@@ -36,17 +36,17 @@
   Skils
 </h3>
 
-<h6>Good at - ﾅﾆﾓﾜｶﾗﾅｲ:</h6>
+<h6>Good at - わりとできる:</h6>
 
 - Android
 - Kotlin Muilti Platform
 
-<h6>Fair at - ｶﾝｾﾞﾝﾆﾘｶｲｼﾀ:</h6>
+<h6>Fair at - ちょっとできる:</h6>
 
 - Figma (Designing & Developing)
 - iOS
 
-<h6>Newbie - 普通に初心者:</h6>
+<h6>Newbie - ちょっと触ったことある:</h6>
 
 - Web Frontend (React, Javascript)
 - Web Backend (Go)
