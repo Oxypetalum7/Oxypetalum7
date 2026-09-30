@@ -33,7 +33,7 @@
 <hr>
 
 <h3>
-  Skils
+  Skills
 </h3>
 
 <h6>Good at - わりとできる:</h6>
