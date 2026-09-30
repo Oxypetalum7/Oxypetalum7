@@ -38,7 +38,7 @@
 
 <h6>Good at - わりとできる:</h6>
 
-- Android
+- kotlin-Android
 - Kotlin Muilti Platform
 
 <h6>Fair at - ちょっとできる:</h6>
