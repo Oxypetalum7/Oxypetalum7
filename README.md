@@ -58,5 +58,7 @@
   etc...
 
 <h3>Please Check My Info!</h3>
-<h4> Portfolio → https://gekka-o.xyz/ </h4>
-<h4> Blog → https://blog.gekka-o.xyz/ </h4>
+
+**[Portfolio](https://gekka-o.xyz/)**
+
+**[Blog](https://blog.gekka-o.xyz/)**
